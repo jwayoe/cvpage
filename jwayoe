@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <title>Joshua Wayoe's CV</title>
+  
+  
+  <style>
+  
+  h1
+  {
+  
+  	color: black;
+  
+  }
+  
+  h2
+  {
+  
+  	color: red;
+  
+  }
+  
+  thead
+  {
+  
+  	color: black;
+  
+  }
+  
+  
+  table, tr, td, th
+  {
+  
+  	border: 1px solid black; 
+    width: 100%
+  
+  }
+  
+  
+  th
+  {
+  
+  	text-align: centre;
+  
+  }
+  
+  
+  
+  </style>
+  
+</head>
+  
+<body>
+ 
+  <form action="My Main Page.html">
+    <input type="submit" value="HomePage">
+ 
+  <h1 style="font-family: Calibri; font-size: 30px; text-align: center">Joshua Wayoe's CV</h1>
+  <p style="text-align: center">Home Address: 45 Kier House 
+  Hazellcrescent Road
+N19 3BB</p>
+<p style="text-align: center">Mobile Number: 07946247595</p>
+<p style="text-align: center">Email Address: joshua.wayoe.16@ucl.ac.uk</p>
+
+<h2 style="font-size: 20px"><u>Personality</u></h2>
+
+<p style="font-family: Calibri">In terms of my personality, I am a very calm and confident however I can be outgoing when I need to be depending on the environment I am in. I am very observant, and I enjoy learning new things as I feel like it is important to learn as much as possible and therefore occasionally I like to meet new people and find out new things. I would describe myself as being very adaptable and ambitious whether it has to do with trying something new or trying to succeed in what I do. Lastly, I am approachable as I like helping people, conversing and communicating with others. This is a beneficial skill to have within a business in order to make sure things are run efficiently depending on the task and developing a relationship where you can work with others.</p>
+
+
+<h2 style="font-size: 20px"><u>Employment History</u></h2>
+
+
+<p style="font-family: Calibri">In the past, I have worked at a private investment bank Smith & Williamson which I did for work experience and picked up some skills from the investment banking side of things and how economics play a big part behind the scenes for a lot of big businesses. I have also worked at Tottenham Hotspur Football Club doing Catering for Centerplate and The Lindley Group in order to boost my skills in retail and dealing with customers. I was also recently employed at Homebase on a short term basis to help me amalgamate my skills to enable me to adapt to different working environments. However, after the probationary period I left Homebase in April 2016 to focus on my A levels which I have now completed. I achieved three Distinction* in Business Studies (D*D*D*) and a B grade in A level Media Studies.</p>
+
+<h2 style="font-size: 20px"><u>Personality Qualities, Skills & Interests</u></h2>
+
+<p style="font-family: Calibri">Due to the fact I have worked at a sports ground doing retail and catering, I have learnt to be able to deal with customers in large influxes as originally I found it hard to work with so many customers. Now I have learnt how to deal with pressure a lot more due to the intensity of the work I did at Tottenham. This would help me to deal with customers with more confidence, on busy days I will be able to make sure customers are attended to. I also have skills at doing things quickly and to good standard so it can help for overall efficiency wherever I work and hopefully also increases overall productivity, as if this standard is not met it can cause productivity to drop. Homebase also helps me get an idea learn how to drive a business’s ethos through the way that I work and that was through how I approached and aided customers.</p>
+
+
+<p style="font-family: Calibri">The personal qualities I have are that I have basic knowledge at programming through the use of HTML and also CSS to create simple webpages. Currently, I am still working to enhance my skills in HTML as I have a lot more to learn. I am also currently learning Java which is an important coding language in the technology industry, a field I would like to go into and my current erudition in Information Management for Business at UCL is aiding me to reach this goal. I have a strong passion for Media, Technology and Business hence why I studied Business, IT and Media for A level, I am an active user of media every day and use it to content create through mediums such as YouTube. Other qualities that I have picked up during my time in school is being able to have confidence around audiences as at some stage I was a school council representative which developed my management skills. As well as this, due to the fact I studied Business Studies for A Levels, I have to create presentations and present them for assignments which has helped me to build confidence in that sense as well as working in groups of people. My skills have been further enhanced at UCL as I have had to do presentations in front of big banks like Credit Suisse or Lloyds Bank to name a few. I also have qualities in video editing as I have done some work for Media Studies as well as in my own time; I create videos for my personal YouTube channel.</p>
+
+<h2 style="font-size: 20px"><u>Education</u></h2>
+
+
+<p style="font-family: Calibri">I have attended Highgate Wood School for 7 Years since September 2009 and I recently have finished my A levels at Highgate Wood. I am also currently studying Information Management for Business at University College London which follows and builds on my current knowledge of IT and Business from my A Levels. This has allowed be to broaden my knowledge and understand the foundations of management and how business intelligence and coding are a big part of today’s industry.</p>
+
+
+<table>
+
+<thead><th colspan="12">GCSE Grades</th></thead>
+
+
+<tr>
+
+
+<td>Mathematics (C)</td>
+
+<td>English Language (B)</td>
+
+<td>English Literature (A)</td>
+
+<td>Biology (B)</td>
+
+<td>Physics (B)</td>
+    
+<td>Chemistry (A)</td>
+
+<td>ECS (B)</td>
+
+<td>History (C)</td>
+
+<td>IT OCR Nationals (Pass)</td>
+
+<td>Business & Economics (C)</td> 
+
+<td>Citizenship (Merit)</td>
+
+</tr>
+
+<th colspan="12">A Level Grades</th>
+
+
+<tr>
+
+<td colspan="5">Business Studies (Triple Award) – D*D*D* (Distinction*)</td>
+<td colspan="6">Media Studies A Level (B Grade)</td>
+
+
+</tr>
+
+
+
+</table>
+ 
+    
+
+</html>
+  </body>
